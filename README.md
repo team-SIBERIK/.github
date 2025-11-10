@@ -1,2 +1,1 @@
-# .github
-SIBERIK pressentation
+# SIBERIK
